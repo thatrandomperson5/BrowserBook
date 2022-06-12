@@ -5,9 +5,12 @@ description = "A web browser backend. Gets all data needed from a url. Multiple 
 authors = ["DragonHunter"]
 readme = "README.md"
 license = "MIT"
+keywords = ['WebBrowser','Backend']
 
 [tool.poetry.dependencies]
 python = "^3.8"
+beautifulsoup4 = "^4.11.1"
+requests = "^2.28.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

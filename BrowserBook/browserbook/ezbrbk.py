@@ -1,3 +1,3 @@
-import browserbookcode
+import browserbook.browserbookcode
 class ezbook:
   pass

@@ -1,6 +1,6 @@
 import requests
-from browserbook.tools.canOpener import Open
-from browserbook.tools.URIreader import read
+from DEADlib.tools.canOpener import Open
+from DEADlib.tools.URIreader import read
 from bs4 import BeautifulSoup
 import shutil
 from uuid import uuid4

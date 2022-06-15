@@ -1,11 +1,12 @@
 [tool.poetry]
 name = "BrowserBook"
-version = "0.1.5"
+version = "0.2.1"
 description = "A web browser backend. Gets all data needed from a url. Multiple sessions at once is possible"
 authors = ["DragonHunter"]
 readme = "README.md"
 license = "MIT"
 keywords = ['WebBrowser','Backend']
+homepage = "https://github.com/thatrandomperson5/BrowserBook"
 
 [tool.poetry.dependencies]
 python = "^3.8"
